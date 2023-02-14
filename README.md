@@ -1,1 +1,1 @@
-# Dio-Bootcamp-LInux-do-Zero
+# Dio-Bootcamp-Linux-do-Zero
