@@ -1,0 +1,7 @@
+ip a = para consultar o ip da máquina.
+~ = indica que esta na pasta do usuário.
+$ = indica usuário com restrições.
+# = super usuário, usuário root com acesso total ao sistema.
+date = apresenta data e hora.
+clear = limpar a tela 
+atalho para o clear = ctrl + L.
