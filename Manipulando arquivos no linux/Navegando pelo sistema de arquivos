@@ -1,0 +1,11 @@
+Vou escrever sobre a função de cada comando no linux:
+pwd = ele vai dizer onde vc esta.
+/ = diretório raiz.
+cd = mudar de diretŕio = (cd = change directory ou mudar de diretório).
+cd / = indica que esta indo para raiz.
+ls = apresentar a lista de diretŕorios ou arquivos.
+cd nomeDoDiretório = entrar em um diretório.
+cd .. = voltar para o diretório anterior.
+cd ../nomeDoDiretório = volta para o diretório anterior e já entra no diretório que gostaria.
+cd /nomeDoDiretório/nomeDoDiretório = entra nos dois diretórios que você deseja.
+cd /nomeDoDiretório/ + apertar tab duas vezes = lista do que tem dentro do diretório.

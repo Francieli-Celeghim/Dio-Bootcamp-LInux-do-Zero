@@ -1,0 +1,15 @@
+pwd = localiza onde você esta.
+cd / = vai para raiz.
+ls | more = ele filtra uma lista para visualizar melhor.
+ctrl + c = é usado para sair da atividade que esta sendo executada.
+ls letra desejada + * = busca todos os diretórios com a letra inicial desejada e o * significa que pode ser qualquer letra
+ls m?g* = m é a letra que eu quero que encontre, ? pode ser qualquer coisa, g tem que ter e * pode ser qualquer coisa.
+outro exemplo: ls ?rh*
+touch = cria um arquivo vázio.
+touch arquivo1.txt = cria um arquivo com o nome arquivo1.txt
+~ = significa que você esta no diretório do usuário
+cd ~ = vai direto para o diretório do usuário.
+ls arquivo[1-3]* = vai listar os meus arquivos 1, 2 e 3.
+ls arquivo[2,5]* = eu quero listar o aquivo 2 e 5.
+ls arquivo[^2,5]* = eu vou listar o 1, 3 e 4 e excluir o 2 e o 5.
+ls arquivo[^3-5]* = vou listar somente o 1 e 2, de 3 até o 5 será excluído.
