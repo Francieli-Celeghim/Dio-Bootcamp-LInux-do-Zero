@@ -1,0 +1,7 @@
+mkdir nomeDiretório = criar diretórios.
+mkdir 'Meu Diretório' = um nome criado com espaço.
+rmdir = remover diretórios.
+rm texto{1..3}.txt = remover todos os três arquivos.
+rm = é para excluir arquivos.
+rm nomeArquivos* = apaga todos os arquivos.
+rm -rf nomeDiretório = vai apagar o diretório e tudo que estiver dentro, use com cuidado.

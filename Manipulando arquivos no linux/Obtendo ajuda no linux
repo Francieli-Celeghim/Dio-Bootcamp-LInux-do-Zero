@@ -1,0 +1,10 @@
+ls --help = mostrar ajuda.
+-f, --force = ignora arquivos e argumentos inexistentes.
+mkdir --help = Cria o(s) DIRETÓRIO(s), se eles já não existirem.
+-v, --verbose = emite uma mensagem para cada diretório criado
+rm -rfvi = pedir confirmação antes de apagar o diretório.
+man ls = apresenta como o ls funciona.
+help cd = mostra as funções do cd.
+link para obter ajuda do ambiente gráfico = https://help.ubuntu.com/
+ls -d */ = listar somente diretórios.
+ls -R /nomeDiretório/ = mostra o que tem dentro das pastas e lista o que tem dentro das pastas.
