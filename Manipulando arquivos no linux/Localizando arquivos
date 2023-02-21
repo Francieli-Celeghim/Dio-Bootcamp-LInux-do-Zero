@@ -1,0 +1,6 @@
+cd / = ir para raiz.
+ls /nomeDoDiretório = vai listar os arquivos que estão dentro do diretório escolhido.
+ls /nomeDoDiretório/nomeDoDiretório = vai mostrar o que tem dentro do último diretório listado.
+ls /nomeDoDiretório/nomeDoDiretório/p* = listar tudo que tem dentro do último diretório que começa com a letra p.
+find -name nomeDoArquivo ou a primeira, segunda ou terceira letra do arquivo + * = buscar um arquivo pelo nome.
+~ $ = usuário padrão.
