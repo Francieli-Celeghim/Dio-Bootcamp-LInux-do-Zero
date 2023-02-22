@@ -1,0 +1,5 @@
+Nunca fique logado diretamente como root.
+sudo passwd root = atribuir uma senha ao usuário existente para liberar acesso ao root.
+su = para ter acesso root.
+# = acesso root.
+su nomeUsuário = voltar para o usuário convencional.

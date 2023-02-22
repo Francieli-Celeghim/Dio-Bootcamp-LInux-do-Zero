@@ -1,0 +1,5 @@
+cat /etc/group = é um arquivo de sistema que define os grupos aos quais os usuários pertencem em sistemas UNIX, como o Linux.
+ls -1 = listar arquivos na raiz um arquivo por linha, arquivos de diretórios.
+sudo = comando para poder utilizar as atividades de administradores.
+ls -l = Lista informações sobre os ARQUIVOs (no diretório atual por padrão). E o -l usa o formato de lista longa.
+cat /etc/sudoers = para ver as configurações do comando sudo.
