@@ -1,0 +1,4 @@
+sshd = serviço de acesso remoto.
+cat etc/ssh/sshd_config = arquivo de configuração sshd.
+vim ou nano = editor de texto no linux.
+systemctl status sshd = mostrar o serviço sshd.
