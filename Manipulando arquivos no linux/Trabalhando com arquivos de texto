@@ -1,0 +1,10 @@
+Por questão de segurança evite ficar logado muito tempo como root. #
+vi nomeDoArquivo.txt = vai abrir o arquivo no editor de texto chamado vi. 
+dentro do vi digite i = inicia o modo de edição dentro do editor de texto vi.
+esc = para sair do modo inserção do vi.
+: = menu no vi.
+wq = salva e sai do vi.
+cat nomeDoArquivo.txt = para ver o conteúdo dentro do arquivo.
+: = abrir o menu no vi.
+nano nomeDoArquivo.txt = nano é um editor de texto mais fácil de usar.
+

@@ -1,0 +1,19 @@
+history = lista os comandos que o rot utilizou recentemente.
+history 30 = para visualizar o histórico dos últimos 30 comandos.
+!numeroDoComandoDesejado = ao colocar ! e o número do comando que esta no histórico o sistema irá executar.
+!! = vai executar o último comando.
+!?dat? = busca por um determinado termo.
+!?ls? = busca por um determinado termo.
+grap = comando utilizado para buscar padrões que você indicar.
+history | grep "Planilhas" = buscando planilhas.
+export HISTTIMEFORMAT="%c " = apresentar data e hora do que foi realizado quando for executado novamente o history.
+-c = limpa a lista de histórico ao excluir todas as entradas.
+history -c = apaga os históricos dos comandos.
+set +o history = desativar o histórico.
+set -o history = retorna o histórico.
+ls -a = visualiza os arquivos ocultos.
+cat nomeDiretório = para visaulizar o conteúdo dentro do diretório.
+cat = ele exibe o conteúdo.
+history -w = armazena os históricos em um arquivo chamado .bash_history, para abrir use o seguinte comando cat .bash_history
+
+
